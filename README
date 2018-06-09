@@ -1,0 +1,5 @@
+Little python script for retrieving last daily variance for a stock symbol from Bloomberg API.
+After getting the data, it sends it to an IFTTT webhook to do something.
+
+https://www.bloomberg.com/
+https://ifttt.com/maker_webhooks
